@@ -39,45 +39,45 @@ _-_ What is missing
 <p>&nbsp;</p>
 
 _-_ Dataset and Column Descriptions:
- ** Dataset used **:online_shoppers_intention.csv: dataset used for model building using K-means.
+ **Dataset used**:online_shoppers_intention.csv: dataset used for model building using K-means.
 
-** Administrative **: This is the number of pages of this type (administrative) that the user visited.
+**Administrative**: This is the number of pages of this type (administrative) that the user visited.
 
-** Administrative_Duration **: This is the amount of time spent in this category of pages.
+**Administrative_Duration**: This is the amount of time spent in this category of pages.
 
-** Informational **: This is the number of pages of this type (informational) that the user visited.
+**Informational**: This is the number of pages of this type (informational) that the user visited.
 
-** Informational_Duration **: This is the amount of time spent in this category of pages.
+**Informational_Duration**: This is the amount of time spent in this category of pages.
 
-** ProductRelated **: This is the number of pages of this type (product related) that the user visited.
+**ProductRelated**: This is the number of pages of this type (product related) that the user visited.
 
-** ProductRelated_Duration **: This is the amount of time spent in this category of pages.
+**ProductRelated_Duration**: This is the amount of time spent in this category of pages.
 
-** BounceRates **: The percentage of visitors who enter the website through that page and exit without triggering any additional tasks.
+**BounceRates**: The percentage of visitors who enter the website through that page and exit without triggering any additional tasks.
 
-** ExitRates ** : The percentage of pageviews on the website that end at that specific page.
+**ExitRates** : The percentage of pageviews on the website that end at that specific page.
 
-** PageValues ** The average value of the page averaged over the value of the target page and/or the completion of an eCommerce transaction.
+**PageValues** The average value of the page averaged over the value of the target page and/or the completion of an eCommerce transaction.
 More information about how this is calculated
 
-** SpecialDay **: This value represents the closeness of the browsing date to special days or holidays (eg Mother's Day or Valentine's day) in which the transaction is more likely to be finalized. More information about how this value is calculated below.
+**SpecialDay**: This value represents the closeness of the browsing date to special days or holidays (eg Mother's Day or Valentine's day) in which the transaction is more likely to be finalized. More information about how this value is calculated below.
 
-** Month **: Contains the month the pageview occurred, in string form.
+**Month**: Contains the month the pageview occurred, in string form.
 
-** OperatingSystems **: An integer value representing the operating system that the user was on when viewing the page.
+**OperatingSystems**: An integer value representing the operating system that the user was on when viewing the page.
 
-** Browser **: An integer value representing the browser that the user was using to view the page.
+**Browser**: An integer value representing the browser that the user was using to view the page.
 
-**Region **: An integer value representing which region the user is located in.
+**Region**: An integer value representing which region the user is located in.
 
-**TrafficType **: An integer value representing what type of traffic the user is categorized into.
+**TrafficType**: An integer value representing what type of traffic the user is categorized into.
 Read more about traffic types here.
 
-** VisitorType **: A string representing whether a visitor is New Visitor, Returning Visitor, or Other.
+**VisitorType**: A string representing whether a visitor is New Visitor, Returning Visitor, or Other.
 
-** Weekend **: A boolean representing whether the session is on a weekend.
+**Weekend**: A boolean representing whether the session is on a weekend.
 
-** Revenue **: A boolean representing whether or not the user completed the purchase.
+**Revenue**: A boolean representing whether or not the user completed the purchase.
 
 <p>&nbsp;</p>
 
@@ -86,9 +86,6 @@ Read more about traffic types here.
 - [Nurlan Sarkhanov](https://github.com/nsarkhanov) 
 - [Vladimir Gasanov](https://github.com/VladimirGas) 
 - [Gabriel Pasca](https://github.com/Calypso25) 
-
-<p>&nbsp;</p>
-
 
 <p>&nbsp;</p>
 
